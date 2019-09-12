@@ -7,7 +7,7 @@ module.exports = function(app) {
 
 
 app.post('/apifriends', function(req, res){
-    var totalDiference = 0;
+    var totalDifference = 0;
     var bestMatch = {
         name: '',
         photo: '',
