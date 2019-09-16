@@ -56,7 +56,7 @@ var friends =[
 
       {
         name:"Prancer La Stallion",
-        photo:"https://images.pexels.com/photos/634613/pexels-photo-634613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        photo:"https://images.pexels.com/photos/634613/pexels-photo-634613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=500",
         scores:[ 1, 2, 3, 1, 2, 4, 5, 2, 1, 3 ]
       }
 
