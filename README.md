@@ -6,12 +6,14 @@
 
  ### Built with 
 
-* node.js, express.js
+* node.js
     * npm packages:
         * express
         * body-parser
         * path
  
- ### Heroku App Link
+ #### Heroku App Link
 
-+ friend-finder 
++ [friend-finder](https://friend-finder-wlc.herokuapp.com/)
+
+  + [deploy your NodeJS app to Heroku from Github](https://www.freecodecamp.org/news/how-to-deploy-a-nodejs-app-to-heroku-from-github-without-installing-heroku-on-your-machine-433bec770efe/ )
